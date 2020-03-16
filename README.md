@@ -8,9 +8,9 @@ This dataset contains a total of 2041 high quality images, with a total of 2041 
 
 <h3>Visualising The Dataset</h3>
 Some of the images containing real images of people look like : <br>
-![realimages](C:\\Users\\vikra\\Downloads\\realimages.jpg?raw=true)
+![realimages](C:\Users\vikra\Downloads\realimages.jpg)
 Some of the images containing fake/photoshopped images of people look like : <br>
-![fakeimages](C:\Users\vikra\Downloads\fakeimages.jpg?raw=true)
+![fakeimages](C:\Users\vikra\Downloads\fakeimages.jpg)
 
 <h3>About The InceptionV3 Network</h3> 
 More about this CNN can be found in this <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf">paper</a>. <br>
