@@ -17,6 +17,6 @@ More about this CNN can be found in this <a href="https://www.cv-foundation.org/
 The original InceptionV3 network as taken from keras looks like <a href="https://images.app.goo.gl/VsCRQEa9qL7HZSoD8">(source)</a>:<br>
 <img src="inceptionv3.png">
 But the extended version of this network used in this project looks like : <br>
-<img src="model_realfake.jpg">
+<center><img src="model_realfake.jpg"></center>
 
 The intuition for how to handle directories, and split the images into training and test sets comes from these <a href="https://www.kaggle.com/martin1234567890/real-vs-fake-face">two</a> <a href="https://www.kaggle.com/anastasia484/face-anti-spoofing">Kernels</a> respectively.
