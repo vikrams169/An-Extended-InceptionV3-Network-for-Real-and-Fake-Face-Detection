@@ -8,15 +8,15 @@ This dataset contains a total of 2041 high quality images, with a total of 2041 
 
 <h3>Visualising The Dataset</h3>
 Some of the images containing real images of people look like : <br>
-![realimages](C:\Users\vikra\Downloads\realimages.jpg)
+![realimages](realimages.jpg)
 Some of the images containing fake/photoshopped images of people look like : <br>
-![fakeimages](C:\Users\vikra\Downloads\fakeimages.jpg)
+![fakeimages](fakeimages.jpg)
 
 <h3>About The InceptionV3 Network</h3> 
 More about this CNN can be found in this <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf">paper</a>. <br>
 The original InceptionV3 network as taken from keras looks like <a href="https://images.app.goo.gl/VsCRQEa9qL7HZSoD8">(source)</a>:<br>
-![inceptionv3](https://images.app.goo.gl/VsCRQEa9qL7HZSoD8) 
+![inceptionv3](inceptionv3.jpg) 
 But the extended version of this network used in this project looks like : <br>
-![model_realfake](C:\Users\vikra\Downloads\model_realfake.jpg) <br> <br>
+![model_realfake](model_realfake.jpg) <br> <br>
 
 The intuition for how to handle directories, and split the images into training and test sets comes from these <a href="https://www.kaggle.com/martin1234567890/real-vs-fake-face">two</a> <a href="https://www.kaggle.com/anastasia484/face-anti-spoofing">Kernels</a> respectively.
